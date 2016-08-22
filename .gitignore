@@ -1,0 +1,8 @@
+### IntelliJ
+*.iml
+
+### Java
+target
+
+### Vert.x
+.vertx
